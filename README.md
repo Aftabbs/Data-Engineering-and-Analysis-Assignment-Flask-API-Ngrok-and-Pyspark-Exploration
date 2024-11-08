@@ -1,7 +1,7 @@
 # Data Engineering Assignment
 ![image](https://github.com/Aftabbs/Data-Engineering-and-Analysis-Assignment-Flask-API-Ngrok-and-Pyspark-Exploration/assets/112916888/b26cc2ae-1e5e-449f-b1ff-abbdf7bef912)
 
-## Objective
+## Objective  
                                
 The objective of this assignment was to assess coding proficiency and data analysis skills. The assignment was divided into three sections, each contributing to a holistic understanding of data engineering processes.                            
                                
