@@ -3,7 +3,7 @@
 
 ## Objective  
                                
-The objective of this assignment was to assess coding proficiency and data analysis skills. The assignment was divided into three sections, each contributing to a holistic understanding of data engineering processes.                                   
+The objective of this assignment was to assess coding proficiency and data analysis skills. The assignment was divided into three sections, each contributing to a holistic understanding of data engineering processes.                                       
                                         
 ## Section 1: Environment Setup and Data Cleaning                      
                                                                         
