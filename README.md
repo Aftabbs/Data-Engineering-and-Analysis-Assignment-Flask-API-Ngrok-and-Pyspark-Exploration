@@ -4,7 +4,7 @@
 ## Objective  
                                
 The objective of this assignment was to assess coding proficiency and data analysis skills. The assignment was divided into three sections, each contributing to a holistic understanding of data engineering processes.                               
-                               
+                                   
 ## Section 1: Environment Setup and Data Cleaning                      
                                                                         
 In this section, the project began with setting up the environment in Google Colab, where a large dataset was provided. The initial steps involved data cleaning and preprocessing to ensure data integrity. Basic preprocessing steps included dropping unnecessary columns and handling null values. Two separate DataFrames, 'Property Price Details' and 'Property Details,' were created as per the provided instructions.
