@@ -10,7 +10,7 @@ The objective of this assignment was to assess coding proficiency and data analy
 In this section, the project began with setting up the environment in Google Colab, where a large dataset was provided. The initial steps involved data cleaning and preprocessing to ensure data integrity. Basic preprocessing steps included dropping unnecessary columns and handling null values. Two separate DataFrames, 'Property Price Details' and 'Property Details,' were created as per the provided instructions.
 
 One of the challenges faced during this section was exporting these DataFrames to a local MySQL Workbench. After multiple unsuccessful attempts, it was discovered that SQLAlchemy and Ngrok could effectively map the local host to the web. This solution proved pivotal in overcoming the challenge.
-
+     
 ## Section 2: Data Analysis
 ![image](https://github.com/Aftabbs/Data-Engineering-and-Analysis-Assignment-Flask-API-Ngrok-and-Pyspark-Exploration/assets/112916888/18477cb1-a452-468f-854c-760deb1d9545)
 
